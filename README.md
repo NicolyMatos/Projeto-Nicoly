@@ -16,7 +16,9 @@ Para cadastrar é bem simples, o usuário deve escrever a 'Descrição', o 'Valo
 Vamos utilizar como exemplo os dados da imagem mostrada a seguir.
 
 
+
 Feito isso os dados fornecidos pelo usuário serão mostrados na tabela, como mostrado abaixo.
+
 
 
 ## Como ordenar?
@@ -37,4 +39,11 @@ Nesta aba o usuário encontrará 3 dados, o primeiro será o valor da maior comp
 
 ## Como Salvar os dados em um arquivo? E como carregar em um arquivo?
 
-Para salvar é preciso  
+#### Salvar:
+Para salvar é preciso clicar em 'Arquivo', na parte superior esquerda do programa. Ao apertar irá aparecer duas opções, clique na opção 'salvar'
+
+#### Carregar:
+Para carregar é preciso clicar em 'Arquivo', na parte superior esquerda do programa. Ao apertar irá aparecer duas opções, clique na opção 'carregar'
+
+
+
