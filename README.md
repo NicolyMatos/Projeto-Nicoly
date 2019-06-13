@@ -24,11 +24,17 @@ Feito isso os dados fornecidos pelo usuário serão mostrados na tabela, como mo
 Para se ordenar basta clicar na opção desejada:
 
 #### Por Descrição:
-O programa irá ordenar, os dados da tabela, em ordem alfabética 
+O programa irá ordenar a descrição em ordem alfabética. 
 
 #### Por Valor:
 O programa irá ordenar os valores que estão contidos na tabela em ordem decrescente.
 
 ## Como acessar as estatísticas? 
 
+Na parte superior do programa existem duas abas (Dados e Estattistíca). Para visualizar as estatistícas basta clicar na aba 'Estatistíca'.
+
+Nesta aba o usuário encontrará 3 dados, o primeiro será o valor da maior compra feita no mês, o segundo será o valor da menor compra feita no mês e o terceiro será o valor total de gastos no mês.
+
 ## Como Salvar os dados em um arquivo? E como carregar em um arquivo?
+
+Para salvar é preciso  
