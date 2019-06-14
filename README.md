@@ -83,6 +83,6 @@ O programa irá abrir uma pasta e na parte inferior dela terá um campo de busca
 
 ![Alt ou título da imagem](https://github.com/NicolyMatos/Projeto-Nicoly/blob/master/Imagens/Carregar2.png)
 
-##FIM DO MANUAL!
+## FIM DO MANUAL!
 
 
